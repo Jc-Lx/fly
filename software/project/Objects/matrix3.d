@@ -1,0 +1,9 @@
+.\objects\matrix3.o: ..\src\math\src\matrix3.c
+.\objects\matrix3.o: ..\src\math\interface\matrix3.h
+.\objects\matrix3.o: ..\src\math\interface\mathTool.h
+.\objects\matrix3.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\matrix3.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\matrix3.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\matrix3.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\matrix3.o: ..\src\math\interface\vector3.h
+.\objects\matrix3.o: ..\src\math\interface\mathTool.h

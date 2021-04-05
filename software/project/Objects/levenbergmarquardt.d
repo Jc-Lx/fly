@@ -1,0 +1,9 @@
+.\objects\levenbergmarquardt.o: ..\src\math\src\LevenbergMarquardt.c
+.\objects\levenbergmarquardt.o: ..\src\math\interface\LevenbergMarquardt.h
+.\objects\levenbergmarquardt.o: ..\src\math\interface\mathtool.h
+.\objects\levenbergmarquardt.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\levenbergmarquardt.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\levenbergmarquardt.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\levenbergmarquardt.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\levenbergmarquardt.o: ..\src\math\interface\vector3.h
+.\objects\levenbergmarquardt.o: ..\src\math\interface\mathTool.h
